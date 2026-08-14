@@ -22,7 +22,7 @@
 
 ## 🐻 About Me
 
-```yaml
+```
 name: "박진희 (Jinhee Park)"
 role: "Fullstack Developer"
 location: "South Korea"
