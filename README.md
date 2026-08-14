@@ -3,39 +3,41 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=RudinP&color=9AC2A1)
 
   
-# Hi there 👋 I'm Jinhee Park (박진희)
+<h1 align="center">Hi there 👋 I'm Jinhee Park (박진희)</h1>
 
-<div align="center">
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=26&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=600&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%9E%85%EC%9E%A5%EC%9D%B4+%EB%90%98%EC%96%B4+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;Frontend+%2B+Backend+%2B+Cloud+%2B+DevOps;%EC%9E%A5%EC%95%A0+%EC%9B%90%EC%9D%B8%EB%B6%80%ED%84%B0+%EC%B6%94%EC%A0%81%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%90%BB" alt="Typing SVG" />
+</p>
 
-### 🐻 "사용자의 불편을 해소하기 위해, 사용자의 입장이 되어 서비스를 만듭니다."
+<p align="center">🐻 "사용자의 불편을 해소하기 위해, 사용자의 입장이 되어 서비스를 만듭니다."</p>
 
-[![Gmail](https://img.shields.io/badge/bearwithdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bearwithdev@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RudinP)
+<p align="center">
+<a href="mailto:bearwithdev@gmail.com"><img src="https://img.shields.io/badge/bearwithdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/RudinP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=RudinP&color=4ADE80&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RudinP&color=4ADE80&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 <br>
 
 ## 🐻 About Me
 
-```
+```yaml
 name: "박진희 (Jinhee Park)"
 role: "Fullstack Developer"
-location: "South Korea"
+location: "Seoul, South Korea"
 education: "숙명여자대학교 컴퓨터과학과 (2020.03 ~ 2025.02)"
 current: "Microsoft Data School 3기 (2025.12 ~ 2026.06)"
-motto: "좋은 개발자는 사용자 입장에서 불편을 파악할 수 있어야 한다."
+motto: "어차피 해야하는거 즐기면서 하자"
 ```
 
-- 🔭 화면이 동작하는가보다 **실제 사용자·실제 데이터·실제 API 계약**으로 흐름이 끊기지 않는가를 먼저 봅니다.
-- 🧩 구현보다 먼저 **Figma·문서로 협업 기준을 공유**하고 같은 방향으로 개발하는 걸 좋아해요.
-- ⚙️ 반복되는 회의록·빌드·배포 확인은 **AI 도구와 자동화**로 줄이고, 개발에만 집중하려 합니다.
-- ☁️ Frontend부터 Backend, Cloud, DevOps까지 — 서비스 하나를 처음부터 끝까지 책임지는 걸 좋아하는 풀스택 개발자입니다.
-- 🐻 어디서든 곰인형을 챙기는 사람입니다. 곰을 좋아합니다. 개발자도 곰때문에 시작했습니다.(믿거나 말거나...)
+- 🔭 화면이 동작하는가보다 **실제 사용자·실제 데이터·실제 API 계약**으로 흐름이 끊기지 않는가를 먼저 봅니다
+- 🧩 구현보다 먼저 **Figma·문서로 협업 기준을 공유**하고 같은 방향으로 개발하는 걸 좋아해요
+- ⚙️ 반복되는 회의록·빌드·배포 확인은 **AI 도구와 자동화**로 줄이고, 개발에만 집중하려 합니다
+- ☁️ Frontend부터 Backend, Cloud, DevOps까지 — 서비스 하나를 처음부터 끝까지 책임지는 걸 좋아하는 풀스택 개발자입니다
+- 🐻 곰을 좋아합니다. 곰 덕분에 개발자가 되었습니다 (믿거나 말거나)
 
 <br>
 
@@ -152,14 +154,14 @@ Spring Boot 기반 사용자 계정 API 구현 초기 백엔드 프로젝트. �
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RudinP&show_icons=true&theme=graywhite&hide_border=true&title_color=4ADE80&icon_color=4ADE80" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudinP&layout=compact&hide_border=true&theme=graywhite&title_color=4ADE80" />
-</div>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RudinP&show_icons=true&theme=graywhite&hide_border=true&title_color=4ADE80&icon_color=4ADE80" alt="RudinP's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudinP&layout=compact&hide_border=true&theme=graywhite&title_color=4ADE80" alt="Top Languages" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RudinP&hide_border=true&theme=graywhite&ring=4ADE80&fire=4ADE80" />
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=RudinP&hide_border=true&theme=graywhite&ring=4ADE80&fire=4ADE80" alt="GitHub Streak" />
+</p>
 
 <br>
 
@@ -167,13 +169,13 @@ Spring Boot 기반 사용자 계정 API 구현 초기 백엔드 프로젝트. �
 
 궁금한 점이 있다면 편하게 연락 주세요. 빠르게 답변드릴게요!
 
-[![Gmail](https://img.shields.io/badge/bearwithdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bearwithdev@gmail.com)
+<p align="center">
+<a href="mailto:bearwithdev@gmail.com"><img src="https://img.shields.io/badge/bearwithdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br>
 
-<div align="center">
-<sub>Made with 🐻 by Jinhee Park</sub>
-</div>
+<p align="center"><sub>Made with 🐻 by Jinhee Park</sub></p>
 
 
 <hr/>
